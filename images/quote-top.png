@@ -1,0 +1,1506 @@
+<html lang="en"><head><script>
+base_url = 'https://www.successmantra.in/';
+</script><!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-X7EKCVRBZM"></script> <script> 
+window.dataLayer = window.dataLayer || []; 
+function gtag(){dataLayer.push(arguments);} 
+gtag('js', new Date()); 
+
+gtag('config', 'G-X7EKCVRBZM'); 
+</script>
+<style>
+    .header-top .social-icon-three li{padding-bottom:0;}
+</style>    
+
+
+
+
+
+
+
+    <meta charset="utf-8">
+
+    
+        <title>Course Detalis</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+
+
+    
+
+    <link href="../css/combine.css" rel="stylesheet">
+
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <link rel="icon" href="fav.png" type="image/x-icon">
+
+    <script>
+    function myFunction() {
+        var dots = document.getElementById("dots");
+        var moreText = document.getElementById("more");
+        var btnText = document.getElementById("myBtn");
+
+        if (dots.style.display === "none") {
+            dots.style.display = "inline";
+            btnText.innerHTML = "Read more";
+            moreText.style.display = "none";
+        } else {
+            dots.style.display = "none";
+            btnText.innerHTML = "Read less";
+            moreText.style.display = "inline";
+        }
+    }
+
+    function closeBar() {
+        var element = document.querySelector('.register-now-top-widget-container');
+        element.style.display = 'none';
+    }
+    </script>
+        <!-- Google Tag Manager -->
+    <script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PS7KNFG');
+    </script>
+    <!-- End Google Tag Manager -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-10959789756"></script>
+    <script async="" custom-element="amp-analytics" src="../js/amp-analytics-0.1.js"></script>
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PS7KNFG" height="0" width="0"
+            style="display:none;visibility:hidden">
+        </iframe>
+    </noscript>
+
+
+    <!-- Responsive -->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+</head>
+
+<body>
+    <div class="page-wrapper">
+        <!-- Main Header-->
+
+        <header class="main-header header-style-two">
+            <!-- Header top -->
+            <div class="header-top">
+                <div class="register-now-top-widget-container">
+                    <div class="container">
+                        <div class="register-now-top-widget-alert">
+                            <div class="register-now-top-widget-marquee-animation">
+                                <div>
+                                                                        <span style="color:#ba271d"><p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; New Batch for CLAT 2025&nbsp;</strong><strong>(Offline&nbsp; Mode)&nbsp;is&nbsp;being announced!!&nbsp;</strong><em><strong>To know more click below. Enroll NOW!</strong></em></p>
+<a href="https://www.successmantra.in/course/clat" style="color:#ba271d;" class="bttnhead">Click</a></span>
+                                    <marquee><p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; New Batch for CLAT 2025&nbsp;</strong><strong>(Offline&nbsp; Mode)&nbsp;is&nbsp;being announced!!&nbsp;</strong><em><strong>To know more click below. Enroll NOW!</strong></em></p>
+</marquee>
+                                    <a href="https://www.successmantra.in/course/clat" class="bttnhead mobiled">Click</a>
+                                </div>
+                            </div>
+
+                            <div class="register-now-top-widget-close-container">
+                                <a onclick="closeBar()" class="close" data-dismiss="close" aria-label="close">×</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="auto-container">
+                    <div class="inner-container">
+                        <div class="top-left">
+                            <ul class="contact-list-two">
+                                <li><a href="https://play.google.com/store/apps/details?id=com.easevidya" style="color:#ba271d;">Download App</a>
+                                </li>
+                                <li><a href="https://www.successmantra.in/home/payment_mode" style="color:#ba271d;">Pay Online</a>
+                                </li>
+
+                            </ul>
+                        </div>
+
+                        <div class="top-right">
+                            <ul class="contact-list-two">
+                                <li><a href="https://www.successmantra.in/register" style="color:#ba271d;">Login</a> </li>
+                                <li><a onclick="requestquote()" style="color:#ba271d;">Request a call back</a> </li>
+                            </ul>
+                            <ul class="social-icon-three">
+                                <li><a href="https://api.whatsapp.com/send?text=I'd like to chat with you!&amp;phone=918588876885" target="_blank"><span class="fab fa-whatsapp"></span><span class="primary-tooltiptext">
+                                            +91-8588876885</span></a></li>
+                                <li><a href="tel:8588876885"><i class="fas fa-phone" style="transform: rotate(-265deg);"></i><span class="primary-tooltiptext phoneno">
+                                            +91-8588876885</span></a></li>
+                                            <li><a href="https://www.youtube.com/channel/UCUBileLPWZl2jyfjjIZYiZQ" target="_blank" title="YouTube"><i class="fab fa-youtube-square"></i></a></li>
+                                <li><a href="https://www.instagram.com/success_mantra_digital/" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="https://t.me/successmantradigital" target="_blank" title="Telegram"><i class="fab fa-telegram"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Header Top -->
+
+
+
+            <!-- Header Lower -->
+            <div class="header-lower">
+                <div class="auto-container">
+                    <!-- Main box -->
+                    <div class="main-box">
+                        <div class="logo-box">
+                            <div class="logo">
+                                <a href="https://www.successmantra.in/"><img src="logo2.png" alt="" title=""></a>
+                            </div>
+                        </div>
+                        <div class="nav-outer outer-box">
+                            <!-- Main Menu -->
+                            <nav class="main-menu navbar-expand-md">
+                                <div class="navbar-header">
+                                    <!-- Toggle Button -->
+                                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                    </button>
+                                </div>
+                                <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
+                                    <ul class="navigation clearfix">
+                                        <li><a href="https://www.successmantra.in/">Home</a></li>
+                                        <li class="dropdown"><a href="#" class="activelink">All Courses</a>
+
+<ul class="submenu-item">
+</ul>
+
+</li>
+                                        <!--<li class="dropdown"><a href="" class="activelink">Online Coaching</a>
+                                            <ul class="submenu-item">
+                                                        </ul>   
+                                        </li>-->
+                                        <!-- <li><a href="https://www.successmantra.in/student-result">Result</a></li> -->
+                                        <li class="dropdown"><a href="https://www.successmantra.in/student-result">Result</a>
+                                            <ul>
+                                                <li><a href="https://www.successmantra.in/student-result-2023">Result 2023</a></li>
+                                                <li><a href="https://www.successmantra.in/student-result-2022">Result 2022</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown"><a>Test Series</a>
+                                            <ul>
+                                                    <li><a onclick="scholarfunct()">Scholarship Test</a>
+                                                    </li>
+                                                    <li><a href="https://www.easevidya.com/previous-paper" target="_blank">Previous Years’ Papers</a>
+                                                    </li>
+                                                    <li><a href="https://www.easevidya.com/all-india-test-series" target="_blank">All India Test Series</a>
+                                                    </li>
+                                                    <li><a href="https://www.easevidya.com/user-demoexams" target="_blank">Free Test</a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown"><a href="#">Student Corner</a>
+                                            <ul>
+                                                <li><a href="https://www.easevidya.com/guest-login" target="_blank">My Dashboard</a>
+                                                </li>
+                                                <li><a href="https://www.easevidya.com/caffair-list" target="_blank">Current Affairs</a></li>
+                                                <li><a href="https://www.easevidya.com/news-list" target="_blank">News and Notifications</a></li>
+                                                <li><a href="https://www.easevidya.com/study-material" target="_blank">Free Study Material</a></li>
+                                                <li><a href="https://www.easevidya.com/our-store/0" target="_blank">Books</a></li>
+                                                <li><a href="https://www.easevidya.com/video-lesson" target="_blank">Video Lesson</a></li>
+                                                <li><a href="https://www.easevidya.com/#" target="_blank">Upcoming Live Events</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://www.successmantra.in/blog">Blog</a></li>
+                                        <li><a href="https://www.successmantra.in/mobile-application-success-mantra-ease-vidya">App</a>
+                                        </li>
+                                        <li class="dropdown"><a href="#">About</a>
+                                            <ul>
+                                                <li><a href="https://www.successmantra.in/why-success-mantra">Why Success Mantra</a>
+                                                </li>
+                                                <li><a href="https://www.successmantra.in/about-success-mantra">About Success
+                                                        Mantra</a></li>
+                                                <li><a href="https://www.successmantra.in/vision-mission-statement-of-success-mantra">Vision
+                                                        &amp; Mission Statement</a></li>
+                                                <li><a href="https://www.successmantra.in/director-message">Director's Message</a>
+                                                </li>
+                                                <li><a href="https://www.successmantra.in/faculty-panel-at-success-mantra">Faculty
+                                                        Panel</a></li>
+                                                <li><a href="https://www.successmantra.in/apply-for-success-mantra-franchise">Apply
+                                                        for Franchisee</a></li>
+                                            </ul>
+                                        </li>
+
+                                        
+                                        <li><a href="https://www.successmantra.in/contact-us">Contact Us</a></li>
+                    </ul>            
+
+
+                                    
+                                </div>
+                            </nav>
+
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- Sticky Header  -->
+            <div class="sticky-header">
+                <div class="auto-container">
+                    <div class="main-box">
+                        <div class="logo-box">
+                            <div class="logo">
+                                <a href="https://www.successmantra.in/"><img src="logo2.png" alt="" title=""></a>
+                            </div>
+                            <div class="upper-right">
+                                <a href="#nav-mobile" class="mobile-nav-toggler navbar-trigger"><i class="fal fa-bars"></i></a>
+                            </div>
+                        </div>
+                        <!--Keep This Empty / Menu will come through Javascript-->
+                    </div>
+                </div>
+            </div>
+            <!-- End Sticky Menu -->
+            <!-- Mobile Header -->
+            <div class="mobile-header">
+                <div class="logo">
+                    <!-- <a href="https://www.successmantra.in/"><img src="images/logo2.png" alt="" title=""></a> -->
+                    <a href="https://www.successmantra.in/"><img src="logo2.png" alt="" title=""></a>
+                </div>
+                <!--Nav Box-->
+                <div class="nav-outer clearfix">
+                    <div class="outer-box">
+                        <a href="#nav-mobile" class="mobile-nav-toggler navbar-trigger"><i class="fal fa-bars"></i></a>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Mobile Menu  -->
+            <div class="mobile-menu">
+                <div class="menu-backdrop"></div>
+                <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+                <nav class="menu-box">
+                    <div class="upper-box">
+                        <div class="nav-logo">
+                            <a href="https://www.successmantra.in/"><img src="logo2.png" alt="" title=""></a>
+                        </div>
+                        <div class="close-btn"><i class="icon flaticon-close"></i></div>
+                    </div>
+                    <ul class="navigation clearfix">
+                        <!--Keep This Empty / Menu will come through Javascript-->
+                    </ul>
+                    <ul class="social-links">
+                        <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
+                        <li><a href="#"><span class="fab fa-pinterest"></span></a></li>
+                        <li><a href="#"><span class="fab fa-twitter"></span></a></li>
+                        <li><a href="#"><span class="fab fa-dribbble"></span></a></li>
+                    </ul>
+                </nav>
+            </div>
+            <!-- End Mobile Menu -->
+        </header>
+
+        <!--End Main Header -->
+<script type="application/javascript">
+    function AllowNumbersOnly(e) {
+    var code = (e.which) ? e.which : e.keyCode;
+    if (code > 31 && (code < 48 || code > 57)) {
+    e.preventDefault();
+    }
+    } 
+    function AllowNumbersOnly1(e) {
+    var code = (e.which) ? e.which : e.keyCode;
+    if (code > 31 && (code < 48 || code > 57)) {
+    e.preventDefault();
+    }
+    }
+</script>
+ <main class="main-area test" id="main-content">
+    <section class="slider-area bg-color2">
+        <div class="container">
+            <div class="header-banner">
+                <div class="header-title">
+                    <h1></h1>
+                    <h3>A Powered Packed <span>Profession</span> Where You Never Retire</h3> <br>
+
+                    <h2 class="txt-white">Gateway to Top Universities</h2>
+                    <div class="courses"></div>
+                </div>
+                
+            </div>
+        </div>
+        <ul class="header-shape list-inline animatedParent">
+            <li class="left"><img src="header-bg-shap2.png" alt="shape image"></li>
+            <li class="right"><img src="header-bg-shap.png" alt="shape image"></li>
+        </ul> 
+    </section>
+    <section class="section upcomming-events internal-pages">
+        <div class="container animatedParent">
+            <div class="section-title  text-center animated zoomIn">
+                <h2>Our results are <span>what define us</span></h2>
+                <div class="col-md-8 m-auto ">
+                    <p>Results over the years are a testimony to the effectiveness of our Winning Methodology &amp; set us apart from other Coaching Institutes</p>
+                </div> 
+            </div>
+            <div class="events-slider">
+                                </div>
+        </div>
+    </section>
+    
+
+    <section class="section">
+        <div class="container">
+             <div class="program-itm">
+                    <ul>
+                        <!-- <a href="dullb-law-overview.html"> -->
+
+                                            </ul>
+                </div>
+                <!--?php// echoprint_r($subject[0]['subject_url']);
+                //echo $urlc;echo $subject[0]['subject_url']; ?-->
+                 
+                 <!--   <div class="section-title animated zoomIn">
+                <h2 class="text-center"> Overview</h2>
+            </div>
+
+           
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="accordian">
+                                                        <?php// if ($s == 1) {  
+                                // $i = 1; foreach ($overview as $view): if ($view['fld_package_id'] == '69') { ?>
+                             
+                                <div class="accordian-set">
+                                    
+                                    <div class="accord-head"> <?php// if($i == 1){ echo " <i class='fa fa-minus'></i> "; //} else {echo " <i class='fa fa-plus'></i> ";}?>
+                                    
+                                        </div>
+                                    <div class="accordian-content">
+                                        <p></p>
+                                        
+                                    </div>
+                                
+                                </div>
+                                <?php// }   $i++; endforeach;  } 
+                                 //$s++;  endforeach; ?>
+                    </div>
+                </div>
+            </div> -->
+       
+
+
+        
+        
+            
+                   
+            
+         
+
+
+         
+<style type="text/css">
+    #content{
+  display:none;
+}
+</style>
+<script src="../js/jquery.min_1.js"></script>
+<script>
+$(document).ready(function() {
+    $('.showcategoryratings').on("click", function() {
+        $(this).closest(".group").find(".categoryratings-review").slideToggle("fast");
+        $(this).toggleClass('active');
+    });
+});
+</script>
+
+            
+                    
+            
+     
+        
+         
+        </div>
+    </section>
+
+
+ 
+
+
+
+ <section class="section gredient-2 animatedParent">
+                 <div class="container">
+                     <div class="section-title animated zoomIn">
+                        <h2 class="txt-white">Result</h2> 
+                    </div>
+
+                     <ul class="result-list result-slider owl-carousel">
+                                                <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="aditya.png" alt=""></span></picture>
+                                    <div class="student-name">Aditya Singh <br> <span class="grade">SM ID - 2021</span></div>
+                                </div>
+                            </li>
+                                                    <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="jass-2.png" alt=""></span></picture>
+                                    <div class="student-name">Jass Kaur Bhatia <br> <span class="grade">SM ID - 2021</span></div>
+                                </div>
+                            </li>
+                                                    <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="anany-2.png" alt=""></span></picture>
+                                    <div class="student-name">Anany Rai <br> <span class="grade">SM ID - 2021</span></div>
+                                </div>
+                            </li>
+                                                    <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="rajat.png" alt=""></span></picture>
+                                    <div class="student-name">Rajat Tanwar <br> <span class="grade">SM ID - 2021</span></div>
+                                </div>
+                            </li>
+                                                    <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="pr.png" alt=""></span></picture>
+                                    <div class="student-name">Priyanshu <br> <span class="grade">SM ID - 2021</span></div>
+                                </div>
+                            </li>
+                                                    <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="himanshu.png" alt=""></span></picture>
+                                    <div class="student-name">Himanshu Sendwal <br> <span class="grade">SM ID - 2021</span></div>
+                                </div>
+                            </li>
+                                                    <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="Mohit_Baisla_%28Rank_10%29.jpg" alt=""></span></picture>
+                                    <div class="student-name">Mohit Baisla <br> <span class="grade">SM ID - 2020</span></div>
+                                </div>
+                            </li>
+                                                    <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="Vishesh_singh_%28Rank_26%29.jpg" alt=""></span></picture>
+                                    <div class="student-name">Vishesh Singh <br> <span class="grade">SM ID - 2020</span></div>
+                                </div>
+                            </li>
+                                                    <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="Tanya_Kaushik_%28Rank_20%29.jpg" alt=""></span></picture>
+                                    <div class="student-name">Tanya Kaushik <br> <span class="grade">SM ID - 2020</span></div>
+                                </div>
+                            </li>
+                                                    <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="Harsh_shivahare.jpeg" alt=""></span></picture>
+                                    <div class="student-name">Harsh Shivhare <br> <span class="grade">SM ID - 2020</span></div>
+                                </div>
+                            </li>
+                                                    <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="Madhav_Choudhary_AIR_24.jpeg" alt=""></span></picture>
+                                    <div class="student-name">Madhav Choudhary <br> <span class="grade">SM ID - 2020</span></div>
+                                </div>
+                            </li>
+                                                    <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="Dhruv_Gupta_%28Rank_36%29.jpg" alt=""></span></picture>
+                                    <div class="student-name">Dhruv Gupta <br> <span class="grade">SM ID - 2020</span></div>
+                                </div>
+                            </li>
+                                                    <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="Satish_Kumar_IHM_pusa.jpeg" alt=""></span></picture>
+                                    <div class="student-name">Satish Kumar <br> <span class="grade">SM ID - 2020</span></div>
+                                </div>
+                            </li>
+                                                    <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="Nitesh_IHM.jpeg" alt=""></span></picture>
+                                    <div class="student-name">Nitesh Kumar <br> <span class="grade">SM ID - 2020</span></div>
+                                </div>
+                            </li>
+                                                    <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="Ayush.jpeg" alt=""></span></picture>
+                                    <div class="student-name">Ayush Sharma <br> <span class="grade">SM ID - 2020</span></div>
+                                </div>
+                            </li>
+                                                    <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="Rashmeet_Arora.jpeg" alt=""></span></picture>
+                                    <div class="student-name">Rashmeet Arora <br> <span class="grade">SM ID - 2020</span></div>
+                                </div>
+                            </li>
+                                                    <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="Rohan_babu_IHM_pusa.jpeg" alt=""></span></picture>
+                                    <div class="student-name">Rohan Babu <br> <span class="grade">SM ID - 2020</span></div>
+                                </div>
+                            </li>
+                                                    <li class="item active">
+                                <div class="result-box">
+                                    <picture class="student-pic effect">
+                                        <span class="inner-pic"><img src="Ankush.jpeg" alt=""></span></picture>
+                                    <div class="student-name">Ankush <br> <span class="grade">SM ID - 2020</span></div>
+                                </div>
+                            </li>
+                                                </ul>
+                 </div>
+              </section>  
+
+
+
+
+    <section class="section pt-0 animatedParent">
+        <div class="container">
+             <div class="section-title m-tb animated zoomIn">
+                <h2> <span>Success Mantra </span> Advantage</h2>
+                <div class="col-md-8 m-auto text-center">
+                    <p>The more courses you buy and the longer the subscription period, the more you save!</p>
+                </div>
+            </div>
+            <div class="row advantages-item">
+                <div class="col-lg-2 col-md-4 col-6 animated fadeIn delay-1s">
+                   <div class="box">
+                        <picture class="item-icon"><img src="best-faculty.png" alt=""></picture>
+                        <p>Experienced Knowledgeable and Energetic Faculty</p>
+                   </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 animated fadeIn delay-2s">
+                    <div class="box">
+                    <picture class="item-icon"><img src="best-study-material.png" alt=""></picture>
+                    <p>Best Study Material Developed with Lots of Research</p>
+                </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 animated fadeIn delay-3s">
+                    <div class="box">
+                    <picture class="item-icon"><img src="best-result.png" alt=""></picture>
+                    <p>Proven Results in Various Test Prepration Examinations</p>
+                </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 animated fadeIn delay-4s">
+                    <div class="box">
+                    <picture class="item-icon"><img src="interactive-learning.png" alt=""></picture>
+                    <p>Online and Mobile Support for Interactive Learning</p>
+                </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 animated fadeIn delay-5s">
+                    <div class="box">
+                    <picture class="item-icon"><img src="small-batches.png" alt=""></picture>
+                    <p>Small Batch Size for Personalized Attention</p>
+                </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 animated fadeIn delay-6s">
+                    <div class="box">
+                    <picture class="item-icon"><img src="affordable-fees.png" alt=""></picture>
+                    <p>Affordable Fees (We are against Exorbitant Fees)</p>
+                </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section choose-program animatedParent">
+        <div class="container">
+            <form action="#" method="post">
+                <div class="section-title animated zoomIn">
+                    <h2 class="txt-white">Choose <span>your program</span></h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-sm-12"> <!-- required for floating -->
+                    <!-- Nav tabs -->
+                       <ul class="nav nav-tabs tabs-left sideways" id="centerResult">
+                                                    </ul>
+                    </div>
+                    <div class="col-lg-8 col-sm-12">
+                        <!-- Tab panes -->
+                        <div class="tab-content">
+                             
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </section>        
+</main>    
+   <!-- Main Footer -->
+
+   <footer class="main-footer pritee">
+            <!--Widgets Section-->
+            <div class="widgets-section ">
+                <div class="auto-container ">
+                    <div class="row ">
+                        <!--Big Column-->
+                        <div class="big-column col-xl-12 col-lg-12 col-md-12 col-sm-12 ">
+                            <div class="row ">
+                                <!--Footer Column-->
+                                <div class="footer-column col-xl-3 col-lg-6 col-md-6 col-sm-12 ">
+                                    <div class="footer-widget lnks-widget ">
+                                        <h2 class="widget-title ">Quick Link</h2>
+                                        <ul class="user-links ">
+											                                            <li><a href="https://www.successmantra.in/">Home</a></li>
+											                                            <li><a href="https://www.successmantra.in/blog/post/exam">Exam Blog</a></li>
+											                                            <li><a href="https://www.successmantra.in/register">Login</a></li>
+											                                            <li><a href="https://www.successmantra.in/home/payment_mode">Pay Now</a></li>
+											                                            <li><a href="https://www.successmantra.in/books-study-materials-success-mantra">Books</a></li>
+											                                            <li><a href="https://www.successmantra.in/blog/post/archives">Current Affairs</a></li>
+											                                            <li><a href="https://www.successmantra.in/blog/post/past-papers">Previous Year Papers</a></li>
+											                                            <li><a href="https://www.successmantra.in/time-table">Time Table</a></li>
+											                                            <li><a href="https://www.easevidya.com/">Easevidya</a></li>
+											                                            <li><a href="https://www.successmantra.in/register">Scholarship Test</a></li>
+											                                            <li><a href="#">Gallery</a></li>
+											                                            <li><a href="https://www.successmantra.in/contact-us">Contact Us</a></li>
+											                                        </ul>
+                                        <h2 class="widget-title ">Download</h2>
+                                        <ul class="user-links ">
+                                            											<li><a href="https://ncert.nic.in/textbook.php">NCERT Books in Hindi </a></li>
+																							<li><a href="https://ncert.nic.in/textbook.php">NCERT Books in English</a></li>
+												  
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="footer-column col-xl-2 col-lg-6 col-md-6 col-sm-12 ">
+                                    <div class="footer-widget lnks-widget ">
+                                        <h2 class="widget-title ">Courses</h2>
+                                        <ul class="user-links ">
+                                                                                    <li><a href="https://www.successmantra.in/blog/post/our-offering/classroom-coaching">Classroom Courses</a></li>
+                                                                                    <li><a href="https://www.successmantra.in/">Distance Learning</a></li>
+                                                                                    <li><a href="https://www.successmantra.in/">Map your Performance</a></li>
+                                                                                    <li><a href="https://www.successmantra.in/">Test Series</a></li>
+                                                                                    <li><a href="https://www.successmantra.in/interview-tips">Interview Tips</a></li>
+                                                                                    <li><a href="https://www.successmantra.in/time-table">Time Table</a></li>
+                                                                                </ul>
+                                        <h2 class="widget-title ">Test Series</h2>
+                                        <ul class="user-links ">
+											                                            <li><a href="https://www.successmantra.in/newdev/examcourse/clat/overview">CLAT</a></li>
+											                                            <li><a href="#">DULLB</a></li>
+											                                            <li><a href="#">NCHM</a></li>
+											                                            <li><a href="#">IPM</a></li>
+											                                            <li><a href="https://www.successmantra.in/careers">Career</a></li>
+											                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="footer-column col-xl-2 col-lg-6 col-md-6 col-sm-12 ">
+                                    <div class="footer-widget lnks-widget ">
+                                        
+                                        <h2 class="widget-title ">E-Brochures</h2>
+                                        <ul class="user-links ">
+                                             													<li><a href="https://www.successmantra.in/brochure/CLAT%20AILET%20DU%20LLB%20Information%20Brochure.pdf" target="_blank">CLAT</a></li>
+																									<li><a href="https://www.successmantra.in/brochure/CLAT%20AILET%20DU%20LLB%20Information%20Brochure.pdf" target="_blank">AILET</a></li>
+																									<li><a href="https://www.successmantra.in/brochure/CLAT%20AILET%20DU%20LLB%20Information%20Brochure.pdf" target="_blank">DU LLB</a></li>
+												 
+                                        </ul>
+                                        <h2 class="widget-title">Useful Links</h2>
+                                        <ul class="user-links">
+                                                                                    <li><a href="https://www.successmantra.in/">Online Admission Form</a></li>
+                                                                                    <li><a href="http://www.clat.ac.in/">CLAT</a></li>
+                                                                                    <li><a href="https://nludelhi.ac.in/home.aspx">AILET</a></li>
+                                                                                    <li><a href="http://lawfaculty.du.ac.in/">Delhi University Law Faculty</a></li>
+                                                                                    <li><a href="https://ctet.nic.in/CMS/public/home.aspx">CBSE-CTET</a></li>
+                                                                                    <li><a href="http://delhi.gov.in/wps/wcm/connect/doit_dsssb/Delhi+Subordinate+Services+Selection+Board/Home/">DSSSB</a></li>
+                                                                                    <li><a href="https://ssc.nic.in/">SSC</a></li>
+                                                                                    <li><a href="https://www.thehindu.com/">The Hindu</a></li>
+                                                                                    <li><a href="https://indianexpress.com/">The Indian Express</a></li>
+                                                                                    <li><a href="http://ddnews.gov.in/">Doordarshan News</a></li>
+                                                                                </ul>
+                                       
+                                        
+
+                                    </div>
+                                </div>
+
+                                
+
+                                <div class="footer-column col-xl-3 col-lg-6 col-md-6 col-sm-12 ">
+                                    <div class="footer-widget lnks-widget ">
+                                        <h2 class="widget-title ">Jobs in Success Mantra</h2>
+                                        <ul class="user-links ">
+                                            <li><a href="https://www.successmantra.in/careers" target="_blank">Apply Now</a></li>
+                                        </ul>
+                                        <h2 class="widget-title ">Get Success Mantra Center in your City</h2>
+                                        <ul class="user-links ">
+                                            <li><a href="https://www.successmantra.in/apply-for-success-mantra-franchise">Apply for Franchise</a></li>
+                                        </ul>
+                                        <h2 class="widget-title">Connect with Us</h2>
+                                        <ul class="user-links">
+                                            <li><a href="https://www.facebook.com/successmantradigital" target="_blank" title="facebook"><i class="fab fa-facebook"></i> Facebook</a></li>
+                                            <li><a href="https://www.instagram.com/success_mantra_digital/" target="_blank" title="Instagram"><i class="fab fa-instagram"></i> Instagram</a></li>
+                                            <li><a href="https://www.youtube.com/channel/UCUBileLPWZl2jyfjjIZYiZQ" target="_blank" title="YouTube"><i class="fab fa-youtube-square"></i> YouTube</a></li>
+                                            <li><a href="https://t.me/successmantradigital" target="_blank" title="Telegram"><i class="fab fa-telegram"></i> Telegram</a></li>
+                                            <li><a href="https://www.linkedin.com/company/success-mantra-coaching" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i> LinkedIn</a></li> 
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                       
+                            <div class="footer-column col-md-12">
+                                <hr>
+                                <div class="row">
+                                    <div class="col-md-7">
+										<div class="footer-widget lnks-widget ">
+											<h2 class="widget-title">Subscribe to Our Newsletter</h2>
+											<div class="newsletter" style="padding-top:20px;">
+                                            <p class="text-success"></p> 
+                       	                    <p class="text-danger"></p>
+												<form name="newsletter" method="post" action="https://www.successmantra.in/careers/Subscription">
+													<div class="row">
+														<div class="col-md-6">
+															<div class="form-group">
+																<input type="email" name="emails" id="emails" class="form-control" placeholder="Email address">
+															</div>
+										                    <p id="emerror" class="text-danger"></p>
+														</div>
+                                                                                                                
+                                                        <div class="col-md-4">
+                                                            <div class="form-group">
+                                                                <input type="text" name="newscaptcha" id="newscaptcha" class="form-control" placeholder="Please enter captcha code">
+                                                                <p id="newscaptchaerr" class="text-danger"></p>
+                                                                <p><img src="1716396039.9653.jpg" width="150" height="40" style="border:0;" alt=" "></p>
+                                                                <input type="hidden" value="5552" name="captchawordnews" id="captchawordnews">
+                                                            </div>
+                                                        </div>
+
+														<div class="col-md-2">
+															<div class="form-group">
+																<input type="submit" onclick="return newssub();" name="submitnews" id="submitnews" value="Submit" class="all-course all-course-btn2" style="margin-top:0; padding:6px 20px">
+															</div>
+														</div>
+													   
+													</div>
+												</form>
+											</div>
+										</div>
+                                    </div>
+                                    <div class="col-md-5 footer-widget lnks-widget"> 
+                                            <h2 class="widget-title ">Download our App</h2><br>
+                                            <div class="downlaodappa"><a href="https://play.google.com/store/apps/details?id=com.easevidya" target="_blank">
+											<img src="download-our-app.png" alt="Download App">
+											</a></div> 
+                                    </div>
+                                </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <div class="footer-bottom ">
+                <div class="auto-container ">
+                    <div class="inner-container ">
+                        <ul class="footer-nav ">
+                            <li><a href="https://www.successmantra.in/term-condition">Terms &amp; Conditions</a></li>
+                                             <li><a href="https://www.successmantra.in/refund-cancellation">Refund | Cancellation | Termination</a></li>
+                                             <li><a href="https://www.successmantra.in/privacy-policy">Privacy Policy</a></li>  
+                        </ul>
+                        <div class="copyright-text ">
+                            <p>© 2010 -
+                                <script>
+                                    const d = new Date();
+                                    let year = d.getFullYear();
+                                    document.write(year);
+                                </script> Success Mantra Smart Coaching, All rights reserved.</p>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </footer>
+
+        <!--End Main Footer -->
+
+
+
+
+
+        </div>
+
+        <!-- End Page Wrapper -->
+
+
+
+        <!--Scroll to top-->
+
+        <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up "></span></div>
+
+
+
+
+       
+
+        <!-- scholarship modal -->
+        <div id="scholarship-modal" class="modal fade " tabindex="-1 ">
+            <div class="modal-dialog modal-dialog-centered text-center ">
+                <div class="modal-content border-0 my-main-pop ">
+                    <div class="modal-body scholarshipmodal ">
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true"><i class="fal fa-times "></i></span>
+                          </button>
+                        <div class="row no-gutters ">
+                            <div class="col-lg-12 ">
+                                <h3>Scholarship Test (SMART)</h3>
+                                Assess your level of preparation via www.easevidya.com and avail Scholarship upto 90% on course coaching. You are being redirected to <a href="https://www.easevidya.com/register">www.easevidya.com</a>.
+                            </div>
+                            <div class="col-lg-12 all-course-btn ">
+                                <a href="https://www.easevidya.com/register" id="myBtn " class="all-course all-course-btn2 d-sm-block d-lg-none">Read More</a>
+                                <a href="https://www.easevidya.com/register" id="myBtn " class="all-course all-course-btn2 d-lg-inblock">Read More</a>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- request a quote -->
+        <div id="request-quote" class="modal fade " tabindex="-1 ">
+            <div class="modal-dialog modal-sm modal-dialog-centered">
+                <div class="modal-content border-0 my-main-pop ">
+                    <div class="modal-body requestcallback ">
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true"><i class="fal fa-times "></i></span>
+                          </button>
+                        <div class="row no-gutters ">
+                            <div class="col-lg-12 text-center ">
+                                <h3>Request a Call Back </h3>
+                                <p>To request a Call Back, please fill the form and we will call you back.</p>
+                            </div>
+                            <div class="col-lg-12 ">
+                            <form name="contact-form" method="post" id="forminquery" action="">
+                                    <div class="row d-flex ">
+                                        <div class="col-md-12 ">
+                                            <div class="form-group ">
+                                                <input type="text " name="fullname" id="fullname" placeholder="Full Name " class="form-control ">
+                                                <p id="fullnameerror" class="text-danger"></p>
+                                            </div>
+                                            <div class="form-group ">
+                                                <input type="number" name="phonenumber" id="phonenumber" placeholder="Mobile Number" class="form-control" maxlength="10">
+                                                <p id="phonenumbererror" class="text-danger"></p>
+                                            </div>
+                                            <div class="form-group ">
+                                                <input type="email " name="email" id="email" placeholder="Email Id " class="form-control ">
+                                                <p id="emailerror" class="text-danger"></p>
+                                            </div>
+											<div class="form-group">
+												<select class="form-control" name="exam" id="exam" required=" ">
+													<option value="">Select Course*</option>
+																									</select>
+												<p id="examerror" class="text-danger"> </p>
+											</div>
+                                            <div class="form-group ">
+                                                <select name="coursename" id="courses" class="form-control " required=" ">
+                                                    <option value="">Select Exam Course*</option>
+                                                </select>
+
+                                                <p id="coursenameerror" class="text-danger "></p>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12 ">
+                                            <div class="form-group "> 
+                                                <select name="targetyear" class="form-control " id="targetyear" required=" ">
+                                                    <option>Select Target Year*</option>
+                                                                                            </select>
+                                        <p id="targetyearerror" class="text-danger "></p>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12 all-course-btn ">
+                                            <input type="button" onclick="enquiryform()" class="all-course all-course-btn2 " value="Submit">
+                                        </div>
+
+                                    </div>
+
+                                </form>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- request a quote -->
+        <div id="liveeventsmodal" class="modal fade " tabindex="-1 ">
+            <div class="modal-dialog modal-sm modal-dialog-centered modal-dialog-scrollable ">
+                <div class="modal-content border-0 my-main-pop ">
+                    <div class="modal-body requestcallback ">
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true"><i class="fal fa-times "></i></span>
+                          </button>
+                        <div class="row no-gutters ">
+                            <div class="col-lg-12 text-center ">
+                                <h3>Register for live Event</h3>
+                                <p>To request a Call Back, please fill the form and we will call you back.</p>
+                            </div>
+                            <div class="col-lg-12 ">
+                                <form action="" method="post">
+                                    <div class="row d-flex ">
+                                        <div class="col-md-12 ">
+                                            <input type="hidden" name="evid" id="evid">
+                                            <div class="form-group ">
+                                                <input type="text " name="evfullname" id="evfullname" placeholder="Full Name " class="form-control ">
+                                                <p id="evfullnameerror" class="text-danger"> </p>
+                                            </div>
+                                            <div class="form-group ">
+                                                <input type="text " name="evmobileno" id="evmobileno" placeholder="Mobile Number " class="form-control ">
+                                                <p id="evmobilenoerror" class="text-danger"> </p>
+                                            </div>
+                                            <div class="form-group ">
+                                                <input type="email " name="evemailid" id="evemailid" placeholder="Email Id " class="form-control ">
+                                                <p id="evemailiderror" class="text-danger"> </p>
+                                            </div>
+                                            <div class="form-group ">
+                                                <input type="email " name="evclass" id="evclass" placeholder="Class " class="form-control ">
+                                                <p id="evclasserror" class="text-danger"> </p>
+                                            </div>
+                                        </div>
+
+                                        <!-- <div class="col-md-12 ">
+                                            <div class="form-group ">
+                                            <div class="g-recaptcha" data-sitekey="6Lep5MoZAAAAADiIHWP2Somdi9xM29cdk-dXP2Gu"
+                                                data-callback="recaptchaCallback"></div>
+                                            </div>
+
+                                        </div> -->
+                                        <div class="col-md-12 all-course-btn ">
+                                            <a type="submit " name="joinnow " class="all-course all-course-btn2 " id="sbtn22 " onclick="submiteventquery()">Join Now</a>
+                                        </div>
+
+                                    </div>
+
+                                </form>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- faculty review modal -->
+        <div id="facultyoverview" class="modal fade " tabindex="-1 ">
+            <div class="modal-dialog modal-dialog-centered ">
+                <div class="modal-content border-0 my-main-pop ">
+                    <div class="modal-body scholarshipmodal ">
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true"><i class="fal fa-times "></i></span>
+                          </button>
+                        <div class="row no-gutters ">
+                            <div class="col-lg-12 mentor">
+                            </div>
+
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- faculty review modal -->
+        <div id="video-modal" class="modal fade " tabindex="-1 ">
+            <div class="modal-dialog modal-lg modal-dialog-centered ">
+                <div class="modal-content border-0 my-main-pop ">
+                    <div class="modal-body pd-0 ">
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true"><i class="fal fa-times "></i></span>
+                          </button>
+                        <div class="row no-gutters ">
+                            <div class="col-lg-12 ">
+                                <iframe id="video_source" src="../media/corporate_video1449398693.mp4" controls="" controlslist="nodownload" style="height: 400px !important;width: 100% !important;" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+                                    
+                                </iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <!-- Book a free demo modal --> 
+<div id="book-free-demo" class="modal fade " tabindex="-1 ">
+            <div class="modal-dialog modal-md modal-dialog-centered">
+                <div class="modal-content border-0 my-main-pop ">
+                    <div class="modal-body requestcallback ">
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true"><i class="fal fa-times "></i></span>
+                          </button>
+                        <div class="row no-gutters ">
+                            <div class="col-lg-12 text-center ">
+                                <h3>Book a free demo</h3> 
+                                <p>We are always happy to get feedback from our valued users so that we can continue to
+                                improve our service(s).</p>
+                            </div>
+                            <div class="col-lg-12 ">
+                            <div class="contact-formh">
+                                    <form method="post" class="contact-validation-active" action="" id="contact-form-main2" enctype="multipart/form-data" autocomplete="off">
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <div class="form-group"><input type="text" class="form-control" name="username" id="username1" placeholder="Your Name*">
+                                                    <p id="nameerror1" class="text-danger"> </p>
+                                                </div>
+
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-group"><input type="email" class="form-control" name="email" id="email1" placeholder="Your Email*">
+                                                    <p id="emailerror1" class="text-danger"> </p>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-group"><input type="number" class="form-control" name="phone" id="phone1" placeholder="Contact No.*">
+                                                    <p id="phoneerror1" class="text-danger"> </p>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <select class="form-control" name="course" id="course1">
+                                                        <option value="">Select Course Variant*</option>
+                                                        <option value="Classroom Coaching">Classroom Coaching</option>
+                                                        <option value="Online Coaching">Online Coaching</option>
+                                                    </select>
+                                                    <p id="courseerror1" class="text-danger"> </p>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <select class="form-control" name="year" id="year1">
+                                                        <option value="">Target Year*</option>
+                                                                                                            </select>
+                                                    <p id="yearerror1" class="text-danger"> </p>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-group"><textarea class="form-control" name="note" id="note1" placeholder="Write your Query"></textarea>
+                                                    <p id="noteerror1" class="text-danger"> </p>
+                                                </div>
+                                            </div>
+
+                                            <!-- <div class="col-md-4">
+                                                   <div class="g-recaptcha" data-sitekey="6Lep5MoZAAAAADiIHWP2Somdi9xM29cdk-dXP2Gu"
+                                    data-callback="recaptchaCallback"></div>
+                                                </div> -->
+
+                                                <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <input type="text" name="captchaexamb" id="captchaexamb" class="form-control" placeholder="Please enter captcha code"> 
+                                                    <p id="captchaerror" class="text-danger"></p>
+                                                        </div></div>
+                                                        <div class="col-md-6">
+                                                <div class="form-group">
+                                                                                                        <input type="hidden" value="" name="captchaword" id="captchaword">
+                                                </div>
+
+                                        </div>
+
+                                        <div class="all-course-btn" style="margin-top: 0;">
+                                            <div id="carrer_msg"></div>
+                                            <input type="button" class="all-course all-course-btn2" name="submit" onclick="addexamcoursequery();" value="Submit now" id="sbtn1">
+                                        </div>
+
+
+                                    
+
+                                </div></form>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+      <!-- Talk to our counseller -->
+      
+      
+
+
+
+        <ul class="social-icon-three mobilesocial">
+            <li><a href="https://api.whatsapp.com/send?text=I'd like to chat with you!&amp;phone=918588876885" target="_blank"><span class="fab fa-whatsapp"></span><span class="primary-tooltiptext">
+                +91-8588876885</span></a></li>
+            <li><a href="tel:8588876885"><i class="fas fa-phone" style="transform: rotate(-265deg);"></i><span class="primary-tooltiptext phoneno">
+                +91-8588876885</span></a></li>
+        </ul>
+        
+        
+        <script src="../js/plugins.js"></script> 
+        <script src="../js/api.js" async="" defer=""></script>
+        <script type="text/javascript">
+		
+			$("#forminquery #exam").change(function(){
+				var examID = $(this).val();
+				ExamCourseByExamID(examID, "#forminquery #courses")
+			});
+		
+            function enquiryform(){
+                var fullname = $('#forminquery').find("input[name='fullname']").val();
+                var email = $('#forminquery').find("input[name='email']").val();
+                var phonenumber = $('#forminquery').find("input[name='phonenumber']").val();
+                var coursename = $('#forminquery').find("select[name='coursename']").val();
+                var targetyear = $('#forminquery').find("select[name='targetyear']").val();
+                var a = $('#contact-form-main').find("#email").val();
+                var filter = /^[a-zA-Z0-9]+[a-zA-Z0-9_.-]+[a-zA-Z0-9_-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{2,4}$/;
+
+                if (fullname.trim() == '') {
+                    $('#forminquery').find('#fullnameerror').html('Please enter your fullname');
+                    return false;
+                } else {
+                    $('#forminquery').find('#fullnameerror').html('');
+                }
+                if (!filter.test(email)) {
+                    $('#forminquery').find('#emailerror').html('Please enter your valid email');
+                    return false;
+                } else {
+                    $('#forminquery').find('#emailerror').html('');
+                }
+                if (phonenumber.trim() == '' || phonenumber.length != '10') {
+                    $('#forminquery').find('#phonenumbererror').html('Please enter your 10 digits phone no.');
+                    return false;
+                } else {
+                    $('#forminquery').find('#phonenumbererror').html('');
+                }
+                if (coursename.trim() == '') {
+                    $('#forminquery').find('#coursenameerror').html('Please select your Course');
+
+                    return false;
+                } else {
+                    $('#forminquery').find('#coursenameerror').html('');
+                }
+                if (targetyear.trim() == '') {
+                    $('#forminquery').find('#targetyearerror').html('Please select your target year');
+
+                    return false;
+                } else {
+                    $('#forminquery').find('#targetyearerror').html('');
+                }
+
+                $.ajax({
+                    url: "https://www.successmantra.in/careers/enquiryformrequest",
+                    type: 'POST',
+                    data: {
+                        'fullname': fullname,
+                        'email': email,
+                        'phonenumber': phonenumber,
+                        'coursename': coursename,
+                        'targetyear': targetyear,
+                    },
+                    success: function(results) {
+
+                        if (results.errors) {
+                            $('#carrer_msg').html(results);
+
+                        } else {
+                            $('#carrer_msg').html(results);
+                            //window.location = "https://www.successmantra.in/";
+                            window.location = "https://www.successmantra.in/thankyou";
+                        }
+
+                    }
+                });
+            }
+
+            function newssub() {
+                var email = $('#emails').val();
+                var newscaptcha = $('#newscaptcha').val();
+                var captchawordnews = $('#captchawordnews').val();
+                var filter = /^[a-zA-Z0-9]+[a-zA-Z0-9_.-]+[a-zA-Z0-9_-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{2,4}$/;
+                
+                if (!filter.test(email)) {
+                    $('#emerror').html('Please enter your valid email');
+                    return false;
+                } else {
+                    $('#emerror').html('');
+                }
+
+                if (newscaptcha.trim() == "") {
+                    $('#newscaptchaerr').html('Please enter captcha code');
+                    return false;
+                } else {
+                    if (newscaptcha.trim() != captchawordnews) {
+                        $('#newscaptchaerr').html('Please enter valid captch.');
+                        return false;
+                    } else {
+                        $('#newscaptchaerr').html('');
+                    }
+                }
+            }
+			
+			function ExamCourseByExamID(examID, dropDownId) {
+				if (examID == null) {
+					var option = '<option value="">Select Exam Course</option>';
+					$(dropDownId).html(option);
+				}
+				else {
+					$.ajax({
+						type: "POST",
+						url: "https://www.successmantra.in/careers/featuredExamCourse",
+						data: { examID: examID },
+						success: function (data) {
+							var list = JSON.parse(data);
+							var option = '<option value="">Select Exam Course</option>';
+							for (var i = 0; i < list.length; i++) {
+								option += '<option value="' + list[i].title + '">' + list[i].title + '</option>';
+							}
+							$(dropDownId).html(option);
+							//$(dropDownId).val(selVal);
+						}
+					});
+				}
+			}
+        </script>
+
+
+ <!-- Google tag (gtag.js) --> 
+ <amp-analytics type="gtag" data-credentials="include"> <script type="application/json"> { "vars": { "gtag_id": "AW-10959789756", "config": { "AW-10959789756": { "groups": "default" } } }, "triggers": { } } 
+     </script> </amp-analytics>
+      
+
+
+
+    
+
+
+
+
+<script type="text/javascript">
+    
+
+    function cart(product_id, fld_product_name, final_price, title, program_id, percentage, all_tax, price) {
+        $.ajax({
+            url: "https://www.successmantra.in/cart/addmycart",
+            method: "POST",
+            data: {product_id: product_id, fld_product_name: fld_product_name, final_price: final_price, title: title, program_id: program_id, percentage: percentage, all_tax: all_tax, price: price},
+            success: function (data) {
+                var rowCount = $('#menu_table_data').html(data).find('tr').length;
+            }
+        });
+    }
+</script>
+
+<script type="text/javascript">
+
+    function main_cat(a,b) {
+        console.log("----"+a+"--"+b);
+        $.ajax({
+            url: base_url+"index.php/category/mainCat",
+            method: "POST",
+            data: {aa: a},
+            success: function (rs) {
+                 if(a == 'Clat-Introduction'){
+                window.location.href = 'https://www.successmantra.in/programs/clat';
+              }else if(a == 'Hotel-Management-Introduction'){
+                 window.location.href = 'https://www.successmantra.in/programs/hotel-management';
+              }else if(a == 'BBA-Introduction'){
+                window.location.href = 'https://www.successmantra.in/programs/bba';
+              }else if(a == 'DULLB-Introduction'){
+                  window.location.href = 'https://www.successmantra.in/programs/DULLB';
+              }else if(a == 'CAT-Introduction'){
+                window.location.href = 'https://www.successmantra.in/programs/cat';
+              }else if(a == 'CTET-Introduction'){
+                window.location.href ='https://www.successmantra.in/programs/ctet';
+              }
+              else{
+                 window.location.href = b;
+              }
+              
+            }
+        });
+    }
+    function about_detail(a,b) {
+         
+         var a = a;
+        // alert(c);
+        document.cookie = "myJavascriptVar ="+ a +";";
+        $.ajax({
+            url: base_url+"index.php/category",
+            method: "POST",
+            data: {aa: a},
+            success: function (rs) {
+               window.location.href = b;
+            }
+        });
+    }
+    function about_detail2(a) {
+         var d = a;
+          document.cookie = "myJavascriptVar ="+ d +";";
+        $.ajax({
+            url: base_url+"category/abutData2",
+            method: "POST",
+            data: {aa: a},
+            success: function (rs) {
+               
+            }
+        });
+    }
+    function about_detail3(a,b,c,d) {
+        console.log('----'+a+"----"+b+"-----"+c+"-----"+d);
+       // var e = b;
+       // var v1 = c;
+       // var v2 = d;
+         //document.cookie = "dd ="+ e +";";
+        // document.cookie = "var1 ="+ v1 +";";
+        // document.cookie = "var2 ="+ v2 +";";
+        
+   
+        $.ajax({
+
+           url: base_url+"index.php/category",
+            method: "POST",
+            data: {aa:b,c:c,d:d},
+            success: function (rs) {
+             window.location.href = a;
+             
+            //window.open(a, '_blank');
+            }
+        });
+    }
+    function reviewSubmit() {
+        var a = $('input[name="rating-input"]:checked').val();
+        var b = $('#title1').val();
+        var c = $('#description1').val();
+        var d = 'images';
+        var e = '';
+        var f = $('input[name="checkd"]:checked').val();
+
+        if(a == undefined){
+            $('.err1').html('Please select rating');
+            return false;
+        }
+        else{
+            $('.err1').html('');
+        }
+
+        // if(b.trim() == ''){
+        //     $('#err2').html('Please enter title');
+        //     return false;
+        // }
+        // else{
+        //     $('#err2').html('');
+        // }
+        if(c.trim() == ''){
+            $('.err2').html('Please enter description');
+            return false;
+        }
+        else{
+           $('.err2').html(''); 
+        }
+        if(f == undefined){
+            $('.err3').html('Please checked');
+            return false;
+        }
+        else{
+            $('.err3').html('');
+        }
+
+        $.ajax({
+            url: "https://www.successmantra.in/category/create_review",
+            method: "POST",
+            data: {a: a, b: b, c: c, d: d, e: e},
+            success: function (data) {
+                if(data.trim() == 'yes'){
+                    $('.err4').html('Review submitted successfully.');
+                }
+                else{
+                    $('.err4').html('Already submitted review this product.');
+                }
+            }
+        });
+    }
+
+    function reviewSubmitlogin(){
+        alert('Please login to write review !');
+    }
+
+
+
+    function getLocation() {
+        var id =  $('#location').val(); 
+        //alert(id);   
+        jQuery.ajax({
+        type: "POST",
+        url: "https://www.successmantra.in/category/getLocation",
+        data:{'id':id},
+        success: function(res) {
+               
+        var objd = JSON.parse(res);
+        //alert(objd);
+        if(objd!='')
+          {
+          
+            $.each( objd, function( key, value ) {
+            var x = '<li><a href="#payment" data-toggle="tab"  class="animated fadeInLeft delay-1s active">'+value.title+'<div class="price-tag"><span class="txt-orange">Rs.'+value.offerprice+'</span> <span class="off-percentage">'+value.price+'</span><strong class="orange">'+value.percentage+'% off</strong></div></a></li>';
+
+
+
+        if (value.percentage!='') { var percentage=value.percentage}  
+        if (value.percentage > '0') { var final_price = value.offerprice}
+        else {final_price = value.price }
+        if (value.all_tax > '0') { var tax=value.all_tax } else{var tax='25'}
+
+
+
+        var xd = value.description+'<div class="price-sidebar">'+percentage+'% off Rs.&nbsp;'+final_price+'<br/>Inclusive of all taxes Rs.'+tax+'</div>';
+
+               
+        document.getElementById("centerResult").innerHTML = x;
+
+        document.getElementById("descResult").innerHTML = xd;
+        });
+
+          }else{
+            //alert('hello');
+            var y ='<li><a href="#payment" data-toggle="tab"  class="animated fadeInLeft delay-1s active">No Data Found<div class="price-tag"><span class="txt-orange"></span> <span class="off-percentage"></span><strong class="orange"></strong></div></a></li>';
+
+                document.getElementById("centerResult").innerHTML = y;
+          }               
+        }
+        }); 
+}
+</script>
+ 
+
+        </div></body></html>
